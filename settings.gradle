@@ -1,0 +1,2 @@
+include ':app', ':easy-annotation'
+include ':easy-api'
